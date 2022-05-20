@@ -1,0 +1,19 @@
+Domain: baidu.com
+Registrar: MarkMonitor Inc.
+Registered On: 1999-10-11
+Expires On: 2026-10-11
+Updated On: 2022-01-25
+Status: clientDeleteProhibited
+Name Servers: ns1.baidu.com
+Organization: Beijing Baidu Netcom Science Technology Co., Ltd.
+State: Beijing
+Country: CN
+Email: Select Request Email Form at https://domains.markmonitor.com/whois/baidu.com
+Organization: Beijing Baidu Netcom Science Technology Co., Ltd.
+State: Beijing
+Country: CN
+Email: Select Request Email Form at https://domains.markmonitor.com/whois/baidu.com
+Organization: Beijing Baidu Netcom Science Technology Co., Ltd.
+State: Beijing
+Country: CN
+Email: Select Request Email Form at https://domains.markmonitor.com/whois/baidu.com
